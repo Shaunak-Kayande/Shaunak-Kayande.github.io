@@ -19,6 +19,10 @@ p {
   font-weight: normal;
 }
 
+button {
+  cursor: pointer;
+}
+
 body {
   background: var(--background-dark);
   padding: 7vh 15vw 0;
